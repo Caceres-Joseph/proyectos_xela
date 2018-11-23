@@ -1,0 +1,6 @@
+SanTecpan                                         0                                                 1                                                 
+SanPeje                                           0                                                 1                                                 
+Tecpan                                            1                                                 1                                                 
+Balanya                                           1                                                 0                                                 
+eliminr                                           1                                                 0                                                 
+Aguas                                             2                                                 1                                                 

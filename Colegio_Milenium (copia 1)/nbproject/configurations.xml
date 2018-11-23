@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>carrera.h</itemPath>
+      <itemPath>carrera_menu.h</itemPath>
+      <itemPath>carreras.h</itemPath>
+      <itemPath>estudiante.h</itemPath>
+      <itemPath>estudiantes.h</itemPath>
+      <itemPath>estudiantes_menu.h</itemPath>
+      <itemPath>func.h</itemPath>
+      <itemPath>seccion.h</itemPath>
+      <itemPath>seccion_menu.h</itemPath>
+      <itemPath>secciones.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>carrera.cpp</itemPath>
+      <itemPath>carrera_menu.cpp</itemPath>
+      <itemPath>carreras.cpp</itemPath>
+      <itemPath>estudiante.cpp</itemPath>
+      <itemPath>estudiantes.cpp</itemPath>
+      <itemPath>estudiantes_menu.cpp</itemPath>
+      <itemPath>func.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>seccion.cpp</itemPath>
+      <itemPath>seccion_menu.cpp</itemPath>
+      <itemPath>secciones.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="carrera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="carrera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="carrera_menu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="carrera_menu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="carreras.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="carreras.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="estudiante.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="estudiante.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="estudiantes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="estudiantes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="estudiantes_menu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="estudiantes_menu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="func.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="seccion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="seccion.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="seccion_menu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="seccion_menu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="secciones.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="secciones.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="carrera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="carrera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="carrera_menu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="carrera_menu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="carreras.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="carreras.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="estudiante.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="estudiante.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="estudiantes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="estudiantes.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="estudiantes_menu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="estudiantes_menu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="func.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="func.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="seccion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="seccion.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="seccion_menu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="seccion_menu.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="secciones.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="secciones.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
